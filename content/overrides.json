@@ -1,0 +1,7 @@
+{
+  "jupyterlab": {
+    "disabledExtensions": [
+      "@jupyterlab/application-extension:sidebar"
+    ]
+  }
+}
