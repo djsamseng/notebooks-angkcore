@@ -3,7 +3,6 @@
     "jupyter-config-data": {
       "disabledExtensions": [
         "@jupyterlab/drawio-extension",
-        "@jupyterlab/application-extension:sidebar",
         "jupyterlab-kernel-spy",
         "jupyterlab-tour"
       ]
