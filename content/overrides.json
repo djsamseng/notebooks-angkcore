@@ -1,7 +1,5 @@
 {
-  "jupyterlab": {
-    "disabledExtensions": [
-      "@jupyterlab/application-extension:sidebar"
-    ]
+  "@jupyterlab/apputils-extension:themes": {
+    "theme": "JupyterLab Dark"
   }
 }
